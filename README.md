@@ -44,13 +44,12 @@ Thank you for your generosity and for being part of this journey!
 
 ## 🛠️ How To Install
 
-### Download binaries for your platform:
+### Download the latest binaries from the [releases page](https://github.com/lucasepe/cirql/releases/latest):
 
-- [macOS](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-macos.zip) 
-- [Windows](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-windows.zip)
-- [Linux (arm64)](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-linux--arm64.zip) 
-- [Linux (amd64)](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-linux--amd64.zip)
-
+- [macOS](https://github.com/lucasepe/cirql/releases/latest)
+- [Windows](https://github.com/lucasepe/cirql/releases/latest)
+- [Linux (arm64)](https://github.com/lucasepe/cirql/releases/latest)
+- [Linux (amd64)](https://github.com/lucasepe/cirql/releases/latest)
 
 ### Using a Package Manager
 
