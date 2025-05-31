@@ -1,0 +1,8 @@
+Hello {{ .GivenName }}!
+
+Here is your code for a 20% discount!
+
+We look forward to seeing you at our shop.
+
+All the best,
+The Shop Team
