@@ -39,6 +39,24 @@ Every bit of support makes a meaningful difference and allows me to focus on bui
 
 Thank you for your generosity and for being part of this journey!
 
-
 [![Donate with PayPal](https://img.shields.io/badge/💸-Tip%20me%20on%20PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FV575PVWGXZBY&source=url)
 
+
+## 🛠️ How To Install
+
+### Download binaries for your platform:
+
+- [macOS](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-macos.zip) 
+- [Windows](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-windows.zip)
+- [Linux (arm64)](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-linux--arm64.zip) 
+- [Linux (amd64)](https://github.com/lucasepe/cirql/releases/download/v1.0.0/cirql-linux--amd64.zip)
+
+
+### Using a Package Manager
+
+» macOS, linux » [Homebrew](https://brew.sh/)
+
+```sh
+brew tap lucasepe/cli-tools
+brew install cirql
+```
