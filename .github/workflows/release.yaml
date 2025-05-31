@@ -10,9 +10,7 @@ env:
   PROJECT_NAME: cirql
   RELEASE: v0.0.0
   DIST_DIR: dist
-  EXTRA_FILES: |
-    README.md
-    LICENSE.txt
+  EXTRA_FILES: "README.md LICENSE.txt"
 
 permissions:
   contents: write
