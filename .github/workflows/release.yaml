@@ -85,8 +85,8 @@ jobs:
           }
 
           # Linux: amd64 + arm64
-          build_target linux amd64 "" "-amd64"
-          build_target linux arm64 "" "-arm64"
+          build_target linux amd64 "" "amd64"
+          build_target linux arm64 "" "arm64"
 
           # macOS: arm64 (no suffix)
           build_target darwin arm64 "" ""
