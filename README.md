@@ -1,6 +1,6 @@
 # `CirQL`
 
-[![Code Quality](https://img.shields.io/badge/Code_Quality-A+-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://goreportcard.com/report/github.com/lucasepe/drop)
+[![Code Quality](https://img.shields.io/badge/Code_Quality-A+-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://goreportcard.com/report/github.com/lucasepe/cirql)
 
 
 > A simple, privacy-first command-line tool for managing contacts locally.
@@ -53,7 +53,7 @@ Thank you for your generosity and for being part of this journey!
 
 ### Using a Package Manager
 
-» macOS, linux » [Homebrew](https://brew.sh/)
+» macOS » [Homebrew](https://brew.sh/)
 
 ```sh
 brew tap lucasepe/cli-tools
