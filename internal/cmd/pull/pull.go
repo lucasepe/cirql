@@ -17,12 +17,12 @@ func Do(args []string) error {
 		args,
 		"m:d:g:o:s:t:h",
 		[]string{
-			"match",
-			"days",
-			"groups",
-			"output",
-			"split",
-			"template",
+			"match=",
+			"days=",
+			"groups=",
+			"output=",
+			"split=",
+			"template=",
 			"help",
 		},
 	)

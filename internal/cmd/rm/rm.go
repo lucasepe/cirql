@@ -16,7 +16,7 @@ func Do(args []string) error {
 		args,
 		"m:h",
 		[]string{
-			"match",
+			"match=",
 			"help",
 		},
 	)
